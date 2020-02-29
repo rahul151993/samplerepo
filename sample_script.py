@@ -1,4 +1,4 @@
 def sample_script():
-	print("SAMPLE TEST")
+	print("This is for the testing purpose")
 
 sample_script()
